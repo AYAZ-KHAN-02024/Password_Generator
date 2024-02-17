@@ -2,9 +2,11 @@
 
 This simple JavaScript password generator creates a random password consisting of four parts: lowercase letters, uppercase letters, special characters, and a digit. The generated password is displayed in an input field, and users can easily copy it to their clipboard by clicking on an icon.
 
-<h4>Site link - https://ayaz-khan-02024.github.io/Password_Generator/
+<h4>🌐Site link - https://ayaz-khan-02024.github.io/Password_Generator/
 </h4> 
-## How it works
+
+
+<h2> >How it works</h2
 
 1. The generator utilizes JavaScript to create a random password.
 2. It concatenates characters from the following character sets:

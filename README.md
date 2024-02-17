@@ -6,7 +6,7 @@ This simple JavaScript password generator creates a random password consisting o
 </h4> 
 
 
-<h2> >How it works</h2
+<h2> How it works</h2
 
 1. The generator utilizes JavaScript to create a random password.
 2. It concatenates characters from the following character sets:
